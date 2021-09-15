@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/adamina</item>
+        <item>@font/aldrich</item>
+        <item>@font/codystar_light</item>
+        <item>@font/days_one</item>
+        <item>@font/life_savers_bold</item>
+        <item>@font/limelight</item>
+        <item>@font/mate_sc</item>
+        <item>@font/metamorphous</item>
+    </array>
+</resources>
